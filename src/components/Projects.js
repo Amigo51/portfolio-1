@@ -3,9 +3,7 @@ import { styled } from "@mui/material/styles";
 import Project from "./Project";
 import DashboardImage from "../projectsImages/DashBoard.PNG";
 import MovieRanking from "../projectsImages/MovieRanking.PNG";
-import BirthdayInvite from "../projectsImages/BirthdayInvite.PNG";
-import PasswordValidtor from "../projectsImages/PasswordValidator.PNG";
-import WeatherAppImage from "../projectsImages/weatherApp.PNG";
+
 //import ConatctsDotNetMAUI from "../projectsImages/ContactsDotNet.PNG";
 import SlightlyTechieBackEnd from "../projectsImages/web-api-access.png";
 import SchoolBillCalculator from "../projectsImages/SchoolBillCalculator.png";
