@@ -187,16 +187,21 @@ const NavBar = () => {
                 Contact
               </Link>
             </Button>
+            
+            
+            
             <Button
               onClick={handleCloseNavMenu}
-              sx={{ my: 2, color: "white", display: "block", backgroundColor: "green" }}>
+              sx={{ my: 2, color: "white", display: "block", backgroundColor: "" }}>
               <Link
                 href="https://lemyoo.github.io/resume/"
                 color="inherit"
                 underline="none"
                 rel="noopener">
-                Resume / CV
+                
               </Link>
+              
+            
             </Button>
           </Box>
         </Toolbar>
