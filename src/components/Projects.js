@@ -5,7 +5,7 @@ import DashboardImage from "../projectsImages/DashBoard.PNG";
 import MovieRanking from "../projectsImages/MovieRanking.PNG";
 
 //import ConatctsDotNetMAUI from "../projectsImages/ContactsDotNet.PNG";
-import SlightlyTechieBackEnd from "../projectsImages/web-api-access.png";
+//import SlightlyTechieBackEnd from "../projectsImages/web-api-access.png";
 import SchoolBillCalculator from "../projectsImages/SchoolBillCalculator.png";
 
 const Div = styled("div")(({ theme }) => ({
